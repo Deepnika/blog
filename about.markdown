@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About
+nameontop: About this Blog
 permalink: /about/
+description: Story of "The Spindle of Necessity" and how it came to be. 
 ---
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
