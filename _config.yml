@@ -28,12 +28,19 @@ url: "https://github.com/deepnika" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 github_username:  deepnika
 
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
 show_excerpts: true
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: the-spindle-of-necessity
 
 
 # Exclude from processing.
