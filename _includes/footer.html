@@ -19,6 +19,7 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
+        <p>{{- site.description | escape -}}</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -26,7 +27,11 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        Quick Links
+        <ul>
+          <li><a href="{{ site.url }}/blog/glossary">Glossary</a></li>
+          <!-- <li><a href="#">Quotes and Exerpts</a></li> -->
+        </ul>
       </div>
     </div>
 

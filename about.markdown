@@ -6,6 +6,9 @@ permalink: /about/
 description: Story of "The Spindle of Necessity" and how it came to be. 
 ---
 
+
+[about]({{site.url}}/blog/glossary/#about)
+
 <!-- It's been a long time since I wanted to experience the most sublime and powerful art of all - writing. I wasn't very confident about the fact that my writings, being a speck of html and saas would do much in this world full of the indefinite oo's on Google in the virtual world; but I reckoned that is the case with me living as a human being in the real world as well, so what the heck! And they say you start out by writing crap and eventually get better at it.
 
 I was not satisfied with the number and quality of github repositories I initially had (still not satisfied uggh) so I decided to make this play repository called "blog". I was excited when I came across Jekyll Blogs and Github Pages and immediately set sail on a quest to learn the ways of blogging. I came across great blogs like "The Everywhereist" and some others. My goal of creating this blog may not be as noble as to help you leap over any terminal difficulty you may be facing in your life, but it is not supposed to be an encyclopedia either. My intention, at the very least is to bring out the happiness embedded in the little ideas this world has seen and share them with you. And if you've still not closed this webpage frustrated with my crappy writing, well, I might change your mind very soon.
