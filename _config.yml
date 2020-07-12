@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 author: Deepnika Jain
 title: The Spindle of Necessity
-email: jaindeepnika@gmail.com
+email: spindleofnecessity@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here you can find stuff related to astronomy, physics, math, 
-  history, all sorts of combinations of those and some other occasional musings of mine. Happy reading.
+  history, all sorts of combinations of those and some other occasional musings of mine. Happy reading!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/deepnika" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  deepnika
+# github_username:  deepnika
 
 
 # Build settings
